@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tippy</string>
+    <string name="base_label">Base</string>
+    <string name="tip_amount_label">Tip</string>
+    <string name="total_amount_label">Total</string>
+    <string name="bill_amount">Bill amount</string>
+    <string name="footer_signature">Made with ❤️ by Khalida</string>
 </resources>
